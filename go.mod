@@ -1,3 +1,3 @@
-module my-network-app
+module ://github.com
 
 go 1.21
